@@ -3,9 +3,11 @@
 
 ---
 
-<h1 id="puroguramingumonogatari-translate-it">Puroguramingumonogatari (Translate it)</h1>
+<h1 id="puroguramingumonogatari">Puroguramingumonogatari</h1>
+<blockquote>
+<p>NOTE: THIS IS A WIP DOCUMENT!</p>
+</blockquote>
 <p>AKA: A noobs guide to programming</p>
-<h2 id="note-this-is-a-wip-document">NOTE: THIS IS A WIP DOCUMENT!</h2>
 <h2 id="table-of-contents">Table of Contents</h2>
 <h3 id="for-complete-beginners">For Complete Beginners</h3>
 <ul>
