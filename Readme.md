@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="puroguramingumonogatari-translate-it">Puroguramingumonogatari (Translate it)</h1>
 <h2 id="aka-histoire-de-programmation">AKA: Histoire de programmation</h2>
 <h3 id="aka--a-noobs-guide-to-programming">AKA:  A noobs guide to programming</h3>
