@@ -51,7 +51,7 @@ Now we need to create the JS file we'll be working with, to do this right click 
 ##### Creating app.js
 ![](./resources/vscode-new-file.gif)
 ## Starting with Java
- 
+Nothing to see here yet...
 ## Im a pro
 :clap: :clap: :clap: 
 Wow, you're the best, I love you, everyone loves you. If you're a pro then go ahead and just look at some of my previous code for robotics to get the jist of what's going on in the scene of robotics, Here's some important links from me.
