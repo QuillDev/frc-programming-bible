@@ -44,10 +44,11 @@ When you first open VSCode it should look somewhat like this, probably not exact
 #### Let's Create our first project!
 To create our first project we're going want to select a folder to work in, we can select a folder my clicking "File" in the top left then clicking "Open Folder" and creating a folder to work in
 > File>Open Folder>[Select a folder to work in.]
+##### Opening a new folder
+![](./resources/vscode-open-project.gif)
 
-After doing that your screen should look something like this
-![](./resources/vscode-open-folder.png)
 Now we need to create the JS file we'll be working with, to do this right click the area on the left, and click "New File" and name it app.js
+##### Creating app.js
 ![](./resources/vscode-new-file.gif)
 ## Starting with Java
  
