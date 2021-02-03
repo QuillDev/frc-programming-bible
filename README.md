@@ -16,19 +16,20 @@ Hey you, yeah you. You think you know something about programming? Good, you'll 
 In my opinion the easiest way to learn programming is by doing, what have you always thought would be cool in programming? What sounds cool? What looks cool? Is it too difficult? This way of thinking will eventually drive you into a project, and participating in such projects will make you a batter overall programmer.
 ### But mysterious man of the past, I'm not creative.
 Well fear not, as a programmer creativity can come later. So for a start we'll be looking at javascript, and we'll later move into java for actual robot code. The reason we start in javascript is because it's easier to understand, easy to setup, and translates well into Java code.
->Q: What's a Javascript mysterious man?
->A: Javascript is a high level (easy to write) scripting language mainly used for web/server development.
->Q: What's a Java mysterious man?
->A: Javas is a high level object oriented (we put code into little boxes called objects that break up hard to understand things) programming language that is commonly used for desktop applications, and sometimes web apps.
+
+>Q: What's a Javascript mysterious man?<br>
+>A: Javascript is a high level (easy to write) scripting language mainly used for web/server development.<br>
+>Q: What's a Java mysterious man?<br>
+>A: Java is a high level object oriented (we put code into little boxes called objects that break up hard to understand things) programming language that is commonly used for desktop applications, and sometimes web apps.<br>
 ## Setup for noobs
-### Okay okay mysterious man, how do I get started 
+### Okay okay mysterious man, how do I get started?
 Well for starting with javascript there's this cool thing called Node.JS and NPM. Node.js is a way to write javascript code on the desktop and it makes it more similar to Java. NPM is a way to download libraries (other peoples code that we can openly use to make our lives easier)
 #### NPM Download/Setup
 [Official Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 [Node.JS/NPM Download ](https://nodejs.org/en/download/)
 #### Cool now you have NPM, let's get an IDE
-> Q: What's an IDE?
-> A: IDE stands for Integrated Development Environment, aka a nice place to write code
+> Q: What's an IDE?<br>
+> A: IDE stands for Integrated Development Environment, aka a nice place to write code<br>
 > Take this wiki page if you don't get it [Boom.](https://en.wikipedia.org/wiki/Integrated_development_environment)
 #### For our guide we'll be using VSCode for 2 reasons
 * A: I am already intimately familiar with it, and it's pretty nice
@@ -49,16 +50,19 @@ To create our first project we're going want to select a folder to work in, we c
 
 Now we need to create the JS file we'll be working with, to do this right click the area on the left, and click "New File" and name it app.js
 ##### Creating app.js
-![](./resources/vscode-new-file.gif)
+![](./resources/vscode-new-file.gif)<br>
+Cool, now you've created a file we can start writing javascript in, first however you need to understand the concept of "variables" "types" and "functions".
+> Q: What's a variable?<br>
+> A: A variable is a way to store some data for use later in code (think of it like X and Y from algebra), variables have a value that they're equal to (Ex. x=5 or y=7);
 ## Starting with Java
 Nothing to see here yet...
 ## Im a pro
 :clap: :clap: :clap: 
 Wow, you're the best, I love you, everyone loves you. If you're a pro then go ahead and just look at some of my previous code for robotics to get the jist of what's going on in the scene of robotics, Here's some important links from me.
->Q: Why are some of these in C++ in the earlier years?
->A: I like C++ but Java is easier to teach & write, so we use Java!
->Q: Why is there code from FRC7265 & FRC6214?
->A: I was on both teams!
+>Q: Why are some of these in C++ in the earlier years?<br>
+>A: I like C++ but Java is easier to teach & write, so we use Java!<br>
+>Q: Why is there code from FRC7265 & FRC6214?<br>
+>A: I was on both teams!<br>
 ### Imporant Links:
 * [My GitHub](https://github.com/QuillDev)
 * [WPILib Docs](https://docs.wpilib.org/en/stable/)
